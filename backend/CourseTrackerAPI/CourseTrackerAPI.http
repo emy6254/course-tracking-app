@@ -1,0 +1,6 @@
+@CourseTrackerAPI_HostAddress = http://localhost:5129
+
+GET {{CourseTrackerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

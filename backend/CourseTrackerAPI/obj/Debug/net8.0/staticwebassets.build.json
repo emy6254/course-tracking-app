@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5OjGgdFcG+TM3aZ9yHglxlvKH1lBkN6rAoray9WKwNw=",
+  "Source": "CourseTrackerAPI",
+  "BasePath": "_content/CourseTrackerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
