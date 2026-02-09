@@ -138,3 +138,4 @@ Admin users have access to extended management features.
 
 ## 👩‍💻 Author
 **Emilija Kalicanin**
+**kalicaninemilija@gmail.com**
